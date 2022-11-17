@@ -1,6 +1,7 @@
 {
   "name": "shavzak-app",
   "version": "0.0.1",
+  "homepage": "/shavzk-app",
   "description": "Shavzak web app",
   "author": {
     "name": "Meir Rotstein",
