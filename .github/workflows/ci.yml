@@ -1,4 +1,8 @@
 name: build and Deploy
+
+runs:
+  using: 'node16'
+  
 on:
   push:
     branches:
