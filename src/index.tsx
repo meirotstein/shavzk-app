@@ -18,3 +18,5 @@ ReactDOM.render(
 	</React.StrictMode>,
 	document.getElementById('root')
 );
+
+document.getElementsByTagName('html')[0].setAttribute("dir", "rtl");
