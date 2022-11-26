@@ -25,7 +25,7 @@ export const Layout: FC = ({ children }) => {
 					min-height: calc(100vh - ${FOOTER_HEIGHT}px);
 				`}
 			>
-				<Box component='header'>
+				<Box component='header' visibility='hidden'>
 					<Header toggleNavigation={toggleNavigation} />
 				</Box>
 				<Navigation open={open} handleClose={toggleNavigation} />
