@@ -12,7 +12,7 @@ import {
 } from '@mui/icons-material';
 
 import { Home } from '../pages/Home';
-import { Shifts } from '../pages/Shifts';
+import { Shifts } from '../pages/shifts/Shifts';
 
 import { Route } from '../types/Route';
 
