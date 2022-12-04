@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/shavzk-app/static/js/main.20d051da.chunk.js",
+    "main.js.map": "/shavzk-app/static/js/main.20d051da.chunk.js.map",
+    "runtime-main.js": "/shavzk-app/static/js/runtime-main.8ae59247.js",
+    "runtime-main.js.map": "/shavzk-app/static/js/runtime-main.8ae59247.js.map",
+    "static/js/2.b9e16df0.chunk.js": "/shavzk-app/static/js/2.b9e16df0.chunk.js",
+    "static/js/2.b9e16df0.chunk.js.map": "/shavzk-app/static/js/2.b9e16df0.chunk.js.map",
+    "index.html": "/shavzk-app/index.html",
+    "static/js/2.b9e16df0.chunk.js.LICENSE.txt": "/shavzk-app/static/js/2.b9e16df0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shavzk-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae59247.js",
+    "static/js/2.b9e16df0.chunk.js",
+    "static/js/main.20d051da.chunk.js"
+  ]
+}
